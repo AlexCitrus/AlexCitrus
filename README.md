@@ -34,6 +34,7 @@
     <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src ="https://img.shields.io/badge/Bulma%20-2C8EBB?logo=bulma&logoColor=white&style=for-the-badge">
 
 <p>
 
