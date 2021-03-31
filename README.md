@@ -6,11 +6,13 @@
 - 😄 Pronouns: He/Him 👨🏼
 - ⚡ Fun fact: I love music! 🎸
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexcitrus&repo=github-readme-stats)](https://github.com/alex-citrus/github-readme-stats)
 
 <!--<p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=alexcitrus&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" /> -->
 
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcitrus&theme=dark&langs_count=10&layout=compact" />
+
 </p>
 
 
