@@ -1,7 +1,7 @@
 ### Hi! I am Alex 👋
 
 - 🔭 I’m currently studying at a bootcamp called Avion School. 🚀
-- 🌱 I’m currently learning Ruby on Rails! 
+- 🌁 I’m currently working at Bridge! 
 - 📫 How to reach me: kidong044@gmail.com
 - ⚡ Fun fact: I love music! 🎸
 
