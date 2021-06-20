@@ -1,6 +1,6 @@
 ### Hi! I am Alex 👋
 
-- 🎓 I’m a graduate a bootcamp called Avion School. 🚀
+- 🎓 I’m a graduate from a bootcamp called Avion School. 🚀
 - 🌁 I’m currently working at Bridge! 
 - 📫 How to reach me: kidong044@gmail.com
 - ⚡ Fun fact: I love music! 🎸
