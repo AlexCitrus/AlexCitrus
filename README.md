@@ -35,7 +35,8 @@
     <img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src ="https://img.shields.io/badge/Bulma%20-2C8EBB?logo=bulma&logoColor=white&style=for-the-badge">
-
+    <img src ="https://img.shields.io/badge/react%20js%20-000000?logo=react&logoColor=79d8f7&style=for-the-badge">
+    <img src ="https://img.shields.io/badge/react%20native%20-white?logo=react&logoColor=79d8f7&style=for-the-badge">
 <p>
 
 ### BACKEND LANGUAGES
@@ -53,5 +54,6 @@
     <img src="https://img.shields.io/badge/Yarn%20-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/gitlab%20-white?logo=gitlab&logoColor=79d8f7&style=for-the-badge">
     
 <p>
