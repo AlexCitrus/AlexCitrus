@@ -11,7 +11,7 @@ Loves music, clean UI, and building stuff that actually helps people 🎧⚡
 - 🎓 Graduated from **Avion School** bootcamp  
 - 📱 Currently a **Mobile Developer at UniSea**  
 - 🎸 *Fun fact:* Music keeps me sane — I code with Nujabes on loop  
-- 📫 Email: **kidung044@gmail.com**
+- 📫 Email: **pasoquinalexander@gmail.com**
 
 ---
 
