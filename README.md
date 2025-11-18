@@ -75,5 +75,5 @@ Loves music, clean UI, and building stuff that actually helps people 🎧⚡
 
 ## 💬 Connect With Me
 
-- 📧 **kidung044@gmail.com**  
-- 🌐 Portfolio: *coming soon…*  
+- 📧 **pasoquinalexander@gmail.com**  
+- 🌐 Portfolio: https://alex-pasoquin.vercel.app/  
